@@ -84,13 +84,13 @@
     <distributionManagement>
 
         <repository>
-            <id>nexus-release</id>
+            <id>nexus-releases</id>
             <name>Release Repository</name>
             <url>http://3.87.158.78/repository/Gabby-app2/</url>
         </repository>
 
         <snapshotRepository>
-            <id>nexus-snapshot</id>
+            <id>nexus-snapshots</id>
             <name>Snapshot Repository</name>
             <url>http://3.87.158.78/repository/Gabby-app/</url>
         </snapshotRepository>
